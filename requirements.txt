@@ -1,1 +1,8 @@
 streamlit
+mne
+moabb
+numpy
+pandas
+matplotlib
+pillow
+plotly
